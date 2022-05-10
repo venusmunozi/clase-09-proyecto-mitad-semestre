@@ -16,3 +16,5 @@ Vamos a hacer busca de las notas musicales y a través de un piano digital de un
 Logramos llegar a la primera melodía, acelerando el ritmo y definiendo bien los tiempos, la cual repetiremos dos veces con una minima modificación de notas.
 
 AKI VIDEO DE LA PRIMERA MELODÍA.
+
+AKI VIDEO DE LAS DOS PRIMERA MELODÍAS.
