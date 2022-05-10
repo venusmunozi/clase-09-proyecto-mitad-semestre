@@ -5,3 +5,5 @@ Integrantes:
 * Venus Igor
 
 ## Argumento
+
+Como equipo decidimos que la diversión es lo primero, por ello es que decidimos irnos por el lado musical de Arduino e interpretar una canción clásica de la cultura memística chilena.
