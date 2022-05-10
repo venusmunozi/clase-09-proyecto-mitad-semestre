@@ -22,7 +22,16 @@ int melodia[] = {
   NOTA_SOL3, 0, NOTA_FAS3,
   NOTA_SOL3, NOTA_FAS3, 
   NOTA_SOL3, NOTA_FAS3,
-  NOTA_DO3
+  NOTA_DO3, 0, 0, 0, 0, 0, 0, 0,
+  NOTA_LA3, NOTA_SOL3,
+  NOTA_FAS3, NOTA_MI3,
+  NOTA_RE3, 0, NOTA_DO3,
+  NOTA_RE3, 0, NOTA_RE3, 0, 0, 0, 0, 0, 0,
+  NOTA_LA3, NOTA_SOL3,
+  NOTA_FAS3, NOTA_MI3,
+  NOTA_RE3, 0, NOTA_DO3,
+  NOTA_RE3, 0, NOTA_RE3, 0
+  
 };
 
 // declarar arreglo de enteros
@@ -39,7 +48,16 @@ int duraciones[] = {
   1, 1, 1,
   1, 1, 
   1, 1,
-  1 
+  1, 1, 1, 1, 1, 1, 1, 1,
+  1, 1,
+  1, 1,
+  1, 1, 1,
+  1, 1, 1, 1, 1, 1, 1, 1, 1,
+  1, 1,
+  1, 1,
+  1, 1, 1,
+  1, 1, 1, 1
+  
 };
 
 // multiplicador de la duracion
@@ -58,9 +76,9 @@ void setup() {
 
   // bucle for
   // iterador es nota y parte en 0
-  // repetir hasta que nota < 30
+  // repetir hasta que nota < 66
   // en cada iteracion aumentar nota en 1
-  for (int nota = 0; nota < 30 ; nota++) {
+  for (int nota = 0; nota < 66 ; nota++) {
 
     // duracion de la nota en milisegundos
     int duracionNota = 1000 / (duraciones[nota] * multiplicadorDuracion);
