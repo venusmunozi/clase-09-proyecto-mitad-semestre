@@ -14,7 +14,6 @@ Vamos a iniciar basándonos en la **clase 05** donde se enseña una melodía a t
 
 Vamos a hacer busca de las notas musicales y a través de un piano digital de una aplicación de iPad, rectificar que sean las notas correctas. Luego de escribir el orden de las notas, viendo videos y tocando en el piano digital, definimos los tiempos de cada nota y los pasamos al Arduino, donde nació un error de distribución de tiempos y lo descubrimos después de muchas pruebas y comparando con el código original. 
 Logramos llegar a la primera melodía, acelerando el ritmo y definiendo bien los tiempos, la cual repetiremos dos veces con una minima modificación de notas.
+Luego de lograr las dos primeras melodías, pusimos la siguiente que se repite dos veces, respetando los tiempos de pausa y logramos el resultado final.
 
-AKI VIDEO DE LA PRIMERA MELODÍA.
-
-AKI VIDEO DE LAS DOS PRIMERA MELODÍAS.
+Estamos muy contentas y orgullosas por nuestro resultado !!!
