@@ -23,4 +23,7 @@ Nuestras herramientas de trabajo fueron las siguientes:
 * Programa Arduino.
 * Plataforma Github donde se encontró todo el material aplicado en nuestro código.
 
+Insertamos imagen y video de nuestro equipo instalado y como resultó este proyecto.
+
+![texto descripción de la foto](imagenes/1.jpg)
 Estamos muy contentas y orgullosas por nuestro resultado !!!
