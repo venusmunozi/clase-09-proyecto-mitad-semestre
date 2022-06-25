@@ -26,4 +26,7 @@ Nuestras herramientas de trabajo fueron las siguientes:
 Insertamos imagen y video de nuestro equipo instalado y como resultó este proyecto.
 
 ![texto descripción de la foto](imagenes/1.jpg)
+![texto descripción de la foto](imagenes/2.mp4)
+
+
 Estamos muy contentas y orgullosas por nuestro resultado !!!
