@@ -16,4 +16,11 @@ Vamos a hacer busca de las notas musicales y a través de un piano digital de un
 Logramos llegar a la primera melodía, acelerando el ritmo y definiendo bien los tiempos, la cual repetiremos dos veces con una minima modificación de notas.
 Luego de lograr las dos primeras melodías, pusimos la siguiente que se repite dos veces, respetando los tiempos de pausa y logramos el resultado final.
 
+Nuestras herramientas de trabajo fueron las siguientes:
+* Kit Iniciación Básico Oem Compatible Con Arduino.
+* Parlante con jumpers soldados a este.
+* Computador.
+* Programa Arduino.
+* Plataforma Github donde se encontró todo el material aplicado en nuestro código.
+
 Estamos muy contentas y orgullosas por nuestro resultado !!!
